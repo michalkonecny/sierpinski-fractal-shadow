@@ -1,5 +1,7 @@
 # Sierpinski Fractal Shadow 3D Animation
 
+[Live view](https://michalkonecny.github.io/sierpinski-fractal-shadow/live/)
+
 A three.js proof-of-concept application rendering the Sierpinski tetrahedron fractal and its shadow cast by a directional light source.
 
 - Inspired by Prof Hideki Tsuiki's paper [Projected images of the Sierpinski tetrahedron and other fractal imaginary cubes](https://arxiv.org/abs/2205.13065).

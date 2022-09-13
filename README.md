@@ -8,4 +8,16 @@ A three.js proof-of-concept application rendering the Sierpinski tetrahedron fra
 
 - Some aspects of the code have been derived from code in [Discover three.js](https://discoverthreejs.com/book/).
 
+## Running locally
+
+- Execute the following shell commands to start a local web server:
+
+```bash
+> cd live
+> python3 -m http.server
+Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
+```
+
+- Open the above URL in your browser.
+
 ![screenshot](st4-shadow.jpg)
